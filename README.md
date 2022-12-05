@@ -9,6 +9,6 @@
 - media screen
 - figma
 
-
+[Ссылка на GitHub pages](https://semagolosov.github.io/russian-travel/)
 
 
